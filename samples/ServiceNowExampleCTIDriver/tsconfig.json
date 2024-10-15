@@ -1,0 +1,13 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "target": "es6",
+    "outDir": "./dist",
+    "declaration": false,
+    "declarationMap": false,
+    "experimentalDecorators": true
+  },
+  "files": [
+    "./src/SNExampleCTIDriver.ts"
+  ]
+}
